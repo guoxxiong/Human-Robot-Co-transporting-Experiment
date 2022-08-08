@@ -1,5 +1,6 @@
 # Human-Robot Co-transporting Experiment
 Experiment of Human-Robot Co-transporting.
+Source code will be updated soon.
 Related papers are in preparation.
 
 Kobuki | Rplidar A3 | Displacement Sensor | Angle Sensor | Jetson TX2 | Arduino Uno | ROS | Linux
